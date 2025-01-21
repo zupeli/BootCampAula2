@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ZfX2YUULWoXio4xLMJYxe1mvC9ngA8JhiExjymSJoK4=",
+  "Source": "AplicacaoWeb",
+  "BasePath": "_content/AplicacaoWeb",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
