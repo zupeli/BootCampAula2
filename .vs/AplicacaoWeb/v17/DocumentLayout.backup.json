@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "D:\\Aulas\\BootCamp\\Proj\\AplicacaoWeb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8D110425-AF6F-4D28-A03E-826A72C32177}|AplicacaoWeb\\AplicacaoWeb.csproj|d:\\aulas\\bootcamp\\proj\\aplicacaoweb\\aplicacaoweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8D110425-AF6F-4D28-A03E-826A72C32177}|AplicacaoWeb\\AplicacaoWeb.csproj|solutionrelative:aplicacaoweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{8D110425-AF6F-4D28-A03E-826A72C32177}|AplicacaoWeb\\AplicacaoWeb.csproj|d:\\aulas\\bootcamp\\proj\\aplicacaoweb\\aplicacaoweb\\model\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D110425-AF6F-4D28-A03E-826A72C32177}|AplicacaoWeb\\AplicacaoWeb.csproj|solutionrelative:aplicacaoweb\\model\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8D110425-AF6F-4D28-A03E-826A72C32177}|AplicacaoWeb\\AplicacaoWeb.csproj|d:\\aulas\\bootcamp\\proj\\aplicacaoweb\\aplicacaoweb\\controllers\\tarefacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D110425-AF6F-4D28-A03E-826A72C32177}|AplicacaoWeb\\AplicacaoWeb.csproj|solutionrelative:aplicacaoweb\\controllers\\tarefacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D110425-AF6F-4D28-A03E-826A72C32177}|AplicacaoWeb\\AplicacaoWeb.csproj|d:\\aulas\\bootcamp\\proj\\aplicacaoweb\\aplicacaoweb\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D110425-AF6F-4D28-A03E-826A72C32177}|AplicacaoWeb\\AplicacaoWeb.csproj|solutionrelative:aplicacaoweb\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D110425-AF6F-4D28-A03E-826A72C32177}|AplicacaoWeb\\AplicacaoWeb.csproj|d:\\aulas\\bootcamp\\proj\\aplicacaoweb\\aplicacaoweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8D110425-AF6F-4D28-A03E-826A72C32177}|AplicacaoWeb\\AplicacaoWeb.csproj|solutionrelative:aplicacaoweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8D110425-AF6F-4D28-A03E-826A72C32177}|AplicacaoWeb\\AplicacaoWeb.csproj|d:\\aulas\\bootcamp\\proj\\aplicacaoweb\\aplicacaoweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D110425-AF6F-4D28-A03E-826A72C32177}|AplicacaoWeb\\AplicacaoWeb.csproj|solutionrelative:aplicacaoweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D110425-AF6F-4D28-A03E-826A72C32177}|AplicacaoWeb\\AplicacaoWeb.csproj|d:\\aulas\\bootcamp\\proj\\aplicacaoweb\\aplicacaoweb\\repositories\\tarefarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D110425-AF6F-4D28-A03E-826A72C32177}|AplicacaoWeb\\AplicacaoWeb.csproj|solutionrelative:aplicacaoweb\\repositories\\tarefarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D110425-AF6F-4D28-A03E-826A72C32177}|AplicacaoWeb\\AplicacaoWeb.csproj|d:\\aulas\\bootcamp\\proj\\aplicacaoweb\\aplicacaoweb\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D110425-AF6F-4D28-A03E-826A72C32177}|AplicacaoWeb\\AplicacaoWeb.csproj|solutionrelative:aplicacaoweb\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D110425-AF6F-4D28-A03E-826A72C32177}|AplicacaoWeb\\AplicacaoWeb.csproj|d:\\aulas\\bootcamp\\proj\\aplicacaoweb\\aplicacaoweb\\model\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D110425-AF6F-4D28-A03E-826A72C32177}|AplicacaoWeb\\AplicacaoWeb.csproj|solutionrelative:aplicacaoweb\\model\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D110425-AF6F-4D28-A03E-826A72C32177}|AplicacaoWeb\\AplicacaoWeb.csproj|d:\\aulas\\bootcamp\\proj\\aplicacaoweb\\aplicacaoweb\\repositories\\tarefarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D110425-AF6F-4D28-A03E-826A72C32177}|AplicacaoWeb\\AplicacaoWeb.csproj|solutionrelative:aplicacaoweb\\repositories\\tarefarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8D110425-AF6F-4D28-A03E-826A72C32177}|AplicacaoWeb\\AplicacaoWeb.csproj|d:\\aulas\\bootcamp\\proj\\aplicacaoweb\\aplicacaoweb\\helpers\\configurationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,11 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "D:\\Aulas\\BootCamp\\Proj\\AplicacaoWeb\\AplicacaoWeb\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "AplicacaoWeb\\Controllers\\WeatherForecastController.cs",
@@ -54,17 +54,16 @@
               "RelativeToolTip": "AplicacaoWeb\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T00:56:39.775Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T00:56:39.775Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Aulas\\BootCamp\\Proj\\AplicacaoWeb\\AplicacaoWeb\\appsettings.json",
               "RelativeDocumentMoniker": "AplicacaoWeb\\appsettings.json",
-              "ToolTip": "D:\\Aulas\\BootCamp\\Proj\\AplicacaoWeb\\AplicacaoWeb\\appsettings.json*",
-              "RelativeToolTip": "AplicacaoWeb\\appsettings.json*",
+              "ToolTip": "D:\\Aulas\\BootCamp\\Proj\\AplicacaoWeb\\AplicacaoWeb\\appsettings.json",
+              "RelativeToolTip": "AplicacaoWeb\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-01-22T00:46:35.97Z",
@@ -78,7 +77,7 @@
               "RelativeDocumentMoniker": "AplicacaoWeb\\Program.cs",
               "ToolTip": "D:\\Aulas\\BootCamp\\Proj\\AplicacaoWeb\\AplicacaoWeb\\Program.cs",
               "RelativeToolTip": "AplicacaoWeb\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwBwAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-22T00:41:04.436Z",
               "EditorCaption": ""
@@ -97,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "TarefaRepositorio.cs",
               "DocumentMoniker": "D:\\Aulas\\BootCamp\\Proj\\AplicacaoWeb\\AplicacaoWeb\\Repositories\\TarefaRepositorio.cs",
               "RelativeDocumentMoniker": "AplicacaoWeb\\Repositories\\TarefaRepositorio.cs",
@@ -105,18 +104,17 @@
               "RelativeToolTip": "AplicacaoWeb\\Repositories\\TarefaRepositorio.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T00:25:08.007Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T00:25:08.007Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Tarefa.cs",
               "DocumentMoniker": "D:\\Aulas\\BootCamp\\Proj\\AplicacaoWeb\\AplicacaoWeb\\Model\\Tarefa.cs",
               "RelativeDocumentMoniker": "AplicacaoWeb\\Model\\Tarefa.cs",
               "ToolTip": "D:\\Aulas\\BootCamp\\Proj\\AplicacaoWeb\\AplicacaoWeb\\Model\\Tarefa.cs",
               "RelativeToolTip": "AplicacaoWeb\\Model\\Tarefa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-22T00:14:06.793Z",
               "EditorCaption": ""
@@ -129,7 +127,7 @@
               "RelativeDocumentMoniker": "AplicacaoWeb\\Controllers\\TarefaController.cs",
               "ToolTip": "D:\\Aulas\\BootCamp\\Proj\\AplicacaoWeb\\AplicacaoWeb\\Controllers\\TarefaController.cs",
               "RelativeToolTip": "AplicacaoWeb\\Controllers\\TarefaController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-20T23:12:51.575Z",
               "EditorCaption": ""
