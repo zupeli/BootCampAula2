@@ -16,7 +16,8 @@ namespace WebApplication1.Model
         // Código comentado para fazermos uma atividade extra
         //[Required]
         //public DateTime DataCriacao { get; set; } = DateTime.Now;
-        //public DateTime? DataConclusao { get; set; }
+        public DateTime? DataCriacao { get; set; }
+        public DateTime? DataConclusao { get; set; }
         [Required]
         public DateTime Prazo { get; set; }
         [Required]
